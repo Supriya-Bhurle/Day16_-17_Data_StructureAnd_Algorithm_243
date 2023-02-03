@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f174b3fe-d4af-4bb1-9420-c98d02a84728" name="Changes" comment="" />
+    <list default="true" id="f174b3fe-d4af-4bb1-9420-c98d02a84728" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/PermutationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/PermutationString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/PrimeNumberInGivenRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/PrimeNumberInGivenRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/orderedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/orderedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/unorderedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/datastructure/unorderedlist/LinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LBX7jb6UR2luuvktqNsrGEsXUE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +37,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.com.bridgelabz.datastructure.unorderedlist.LinkedList">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithm.Anagram" />
+      <module name="Day16And17_243" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.datastructure.orderedlist.LinkedList" />
+      <module name="Day16And17_243" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.datastructure.orderedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithm.MergeSort" />
+      <module name="Day16And17_243" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumberInGivenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithm.PrimeNumberInGivenRange" />
+      <module name="Day16And17_243" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.datastructure.unorderedlist.LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.datastructure.unorderedlist.LinkedList" />
+      <module name="Day16And17_243" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.datastructure.unorderedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.bridgelabz.datastructure.unorderedlist.LinkedList" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.PrimeNumberInGivenRange" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.MergeSort" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +129,32 @@
       <updated>1675345284065</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bridgelabz/algorithm/BubbleSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bridgelabz/algorithm/BubbleSort.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
